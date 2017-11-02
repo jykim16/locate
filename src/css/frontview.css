@@ -9,7 +9,7 @@
   font-size: 2em;
   display: flex;
   justify-content: space-evenly;
-  margin: 10%;
+  margin: 10% 10% 0% 10%;
 }
 
 .input {
@@ -24,7 +24,7 @@
 .destinations {
   font-family: monospace;
   background: #2be0a2;
-  margin: 5%;
+  margin: 0% 5%;
 }
 
 .destination {
