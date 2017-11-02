@@ -1,0 +1,16 @@
+.App-header {
+  /*background-color: #a2ccff;
+  height: 80px;
+  padding: 20px;
+  color: white;
+  text-align: center;*/
+}
+
+.logo {
+  float: left;
+}
+
+.main {
+  display: flex;
+  height: 100vh;
+}
