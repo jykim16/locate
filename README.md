@@ -2,6 +2,7 @@
 ## Usage
 
 Checkout the app
+
 ![Locator in Action][gif]
 
 https://jykim16.github.io/locate/
